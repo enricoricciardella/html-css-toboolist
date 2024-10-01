@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Lato", sans-serif;
+}
+img{
+    display: inline-block;
+    width: 50px;
+    vertical-align: middle;
+    
+
+}
+.title{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 32px;
+    vertical-align: middle;
+}
+.header{
+    padding: 15px;
+}
+.macro-container{
+    height: 800px;
+    background-color: #80808053;
+    padding: 40px 80px;
+}
+.container{
+    height: 400px;
+}
