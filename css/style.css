@@ -49,3 +49,26 @@ img{
     padding: 10px;
     color: grey;
 }
+
+.macro-section{
+    padding: 10px 50px;
+}
+.check-green{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 2px;
+
+}
+
+h2{
+    margin-bottom: 10px;
+}
+.blue-button2{
+    font-size: 12px;
+    border: 1px solid #1183edf8 ;
+    padding: 4px;
+    border-radius: 15px;
+    background-color: #1183edf8;
+    color: white;
+}
