@@ -26,7 +26,7 @@ img{
     padding: 40px 80px;
 }
 .container{
-    max-height: 400px;
+    max-height: auto;
     
     background-color: white;
 }
@@ -58,11 +58,13 @@ img{
     border: 1px solid green;
     border-radius: 50%;
     padding: 2px;
+    margin-right: 10px;
 
 }
 
 h2{
     margin-bottom: 10px;
+    margin-top: 25px;
 }
 .blue-button2{
     font-size: 12px;
@@ -71,4 +73,56 @@ h2{
     border-radius: 15px;
     background-color: #1183edf8;
     color: white;
+    margin-left: 5px;
+}
+.macro-section p{
+    margin-top: 20px;
+}
+.violet-button{
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 15px;
+    background-color: #8c0cdb;
+    color: white;
+    margin-left: 5px;
+}
+.red-cross{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+    margin-right: 10px;
+}
+.green-button{
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 15px;
+    background-color: #086d14;
+    color: white;
+    margin-left: 5px;
+
+}
+.check-green{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 2px;
+    margin-right: 10px;
+}
+.orange-button{
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 15px;
+    background-color: #e07408;
+    color: white;
+    margin-left: 5px;
+}
+
+.rose-button{
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 15px;
+    background-color: #e008d2;
+    color: white;
+    margin-left: 5px;
 }
