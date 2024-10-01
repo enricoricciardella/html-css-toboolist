@@ -1,3 +1,4 @@
+/* Seleziono tutto con * */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -9,7 +10,7 @@ img{
     width: 50px;
     vertical-align: middle;
     
-
+/* Sistemo in titolo del logo */
 }
 .title{
     display: inline-block;
@@ -20,9 +21,10 @@ img{
 .header{
     padding: 15px;
 }
+/* Creo info per il MACRO CONTAINER */
 .macro-container{
     height: 800px;
-    background-color: #80808053;
+    background-color: #f9f9f9;
     padding: 40px 80px;
 }
 .container{
@@ -30,6 +32,7 @@ img{
     
     background-color: white;
 }
+/* Aggiungo la TOP SECTION, parte dove ci sono i due bottoni uno blu uno bianco */
 .top-section .blue-button{
     display: inline-block;
     background-color: #1183edf8;
@@ -125,4 +128,13 @@ h2{
     background-color: #e008d2;
     color: white;
     margin-left: 5px;
+}
+.olive-button{
+    font-size: 12px;
+    padding: 4px;
+    border-radius: 15px;
+    background-color: #96b934;
+    color: white;
+    margin-left: 5px;
+
 }
