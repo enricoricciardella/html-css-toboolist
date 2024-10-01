@@ -26,5 +26,26 @@ img{
     padding: 40px 80px;
 }
 .container{
-    height: 400px;
+    max-height: 400px;
+    
+    background-color: white;
+}
+.top-section .blue-button{
+    display: inline-block;
+    background-color: #1183edf8;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+.top-section{
+    padding: 10px 50px;
+    border-bottom: 1px solid grey;
+}
+.white-button{
+    background-color: white;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 10px;
+    color: grey;
 }
